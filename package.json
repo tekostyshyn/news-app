@@ -2,14 +2,14 @@
     "name": "bite-news-app",
     "version": "2.0.0",
     "description": "",
-    "homepage": "https://TikhonenkoVV.github.io/bite-news-app",
+    "homepage": "https://tekostyshyn.github.io/news-app",
     "scripts": {
         "start": "parcel src/*.html",
-        "build": "parcel build src/*.html --public-url /bite-news-app/"
+        "build": "parcel build src/*.html --public-url /news-app/"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TikhonenkoVV/bite-news-app.git"
+        "url": "git+https://github.com/tekostyshyn/news-app.git"
     },
     "keywords": [],
     "author": "Alexander Repeta <alexander.repeta@gmail.com>",
